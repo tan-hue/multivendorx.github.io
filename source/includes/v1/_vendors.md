@@ -1,5 +1,5 @@
 # Vendors #
-WCMp vendors API allows you to create, view, update, and delete individual, or a batch of vendors remotely through another application.
+MultiVendorX vendors API allows you to create, view, update, and delete individual, or a batch of vendors remotely through another application.
 
 ## Accepted Parameters ##
 
