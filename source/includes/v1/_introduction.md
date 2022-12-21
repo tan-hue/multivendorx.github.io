@@ -1,8 +1,8 @@
 # Introduction #
 
-WC Marketplace 3.1+ have been fully integrated with WordPress REST API. This will now let developers interact with sites remotely by sending and receiving JSON objects. When a data is sent out or a HTTP(S) request is made to the API from external applications, the response will be returned in JSON, thereby allowing WCMp data to be created, read, updated or deleted.
+MultiVendorX 3.1+ have been fully integrated with WordPress REST API. This will now let developers interact with sites remotely by sending and receiving JSON objects. When a data is sent out or a HTTP(S) request is made to the API from external applications, the response will be returned in JSON, thereby allowing WCMp data to be created, read, updated or deleted.
 
-WCMp REST API has been introduced extending <a target="_blank" href="https://developer.wordpress.org/rest-api/">WordPress REST API</a> and <a target="_blank" href="https://woocommerce.github.io/woocommerce-rest-api-docs">WooCommerce REST API</a>.
+MultiVendorX REST API has been introduced extending <a target="_blank" href="https://developer.wordpress.org/rest-api/">WordPress REST API</a> and <a target="_blank" href="https://woocommerce.github.io/woocommerce-rest-api-docs">WooCommerce REST API</a>.
 
 ## Prerequisites ##
 
