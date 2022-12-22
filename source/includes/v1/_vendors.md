@@ -76,7 +76,7 @@ MultiVendorX vendors API allows you to create, view, update, and delete individu
 
 ## Create a Vendor ##
 
-A new vendor can be created by calling the WCMp vendors API and using the `POST` method.
+A new vendor can be created by calling the MultiVendorX vendors API and using the `POST` method.
 <div class="wcmp-api-endpoint">
   <div class="wcmp-endpoint-data">
     <i class="label label-post">POST</i>
