@@ -25,7 +25,7 @@ GEM
     fast_blank (1.0.0)
     fastimage (2.0.1)
       addressable (~> 2)
-    ffi (1.9.17)
+    ffi (1.9.22)
     haml (4.0.7)
       tilt
     hamster (3.0.0)
@@ -121,6 +121,7 @@ DEPENDENCIES
   nokogiri (~> 1.6.8)
   redcarpet (~> 3.4.0)
   rouge (~> 2.0.5)
+
 
 RUBY VERSION
    ruby 2.3.3p222
